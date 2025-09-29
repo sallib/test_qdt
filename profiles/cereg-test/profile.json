@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/sallib/test_qdt/refs/heads/main/profiles/cereg-test/profile.json",
-  "name": "cere-test",
+  "name": "cereg-test",
   "folder_name": "cereg-test",
   "description": "Cereg QGIS Profile test",
   "author": "Sandy Allibert",
