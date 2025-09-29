@@ -5,7 +5,7 @@
   "description": "Cereg QGIS Profile test",
   "author": "Sandy Allibert",
   "email": "s.allibert@cereg.com",
-  "icon": "images/icon_shortcut_qdt_demo.ico",
+  "icon": "images/icon_shortcut_qdt_cereg-test.ico",
   "qgisMinimumVersion": "3.28.0",
   "qgisMaximumVersion": "3.99.10",
   "version": "1.0.0",
