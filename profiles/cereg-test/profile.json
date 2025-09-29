@@ -1,5 +1,5 @@
 {
-  "$schema": "https://git.cereg.com/geomatique/qgis-profiles/raw/branch/main/profiles/cereg-test/profile.json",
+  "$schema": "https://raw.githubusercontent.com/sallib/test_qdt/refs/heads/main/profiles/cereg-test/profile.json",
   "name": "cere-test",
   "folder_name": "cereg-test",
   "description": "Cereg QGIS Profile test",
