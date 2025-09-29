@@ -1,0 +1,49 @@
+{
+  "$schema": "https://git.cereg.com/geomatique/qgis-profiles/raw/branch/main/profiles/cereg-test/profile.json",
+  "name": "cere-test",
+  "folder_name": "cereg-test",
+  "description": "Cereg QGIS Profile test",
+  "author": "Sandy Allibert",
+  "email": "s.allibert@cereg.com",
+  "icon": "images/icon_shortcut_qdt_demo.ico",
+  "qgisMinimumVersion": "3.28.0",
+  "qgisMaximumVersion": "3.99.10",
+  "version": "1.0.0",
+  "plugins": [
+        {
+            "name": "French Locator Filter",
+            "folder_name": "french_locator_filter",
+            "official_repository": true,
+            "plugin_id": 1846,
+            "version": "1.4.1"
+        },
+        {
+            "name": "Layers menu from project",
+            "folder_name": "menu_from_project",
+            "official_repository": true,
+            "plugin_id": 43,
+            "version": "2.4.1"
+        },
+        {
+            "name": "QGIS Resource Sharing",
+            "folder_name": "qgis_resource_sharing",
+            "official_repository": true,
+            "plugin_id": 1079,
+            "version": "1.2.0"
+        },
+        {
+            "name": "Cereg tools prod",
+            "folder_name": "the_new_cereg_tools",
+            "official_repository": false,
+            "plugin_id": 3105720113,
+            "version": "25.08.01"
+        },
+        {
+            "name": "QRestart",
+            "folder_name": "QRestart",
+            "official_repository": true,
+            "plugin_id": 2887,
+            "version": "0.2"
+        }
+    ]
+}
