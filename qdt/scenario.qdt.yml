@@ -19,7 +19,7 @@ steps:
   - name: Download profiles from remote git repository
     uses: qprofiles-downloader
     with:
-      source: https://git.cereg.com/geomatique/qgis-profiles.git
+      source: https://github.com/sallib/test_qdt.git
       protocol: git_remote
       branch: main
 
